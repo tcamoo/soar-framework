@@ -32,35 +32,24 @@ bash <(curl -Ls https://raw.githubusercontent.com/your-username/soar-framework/m
 
 安装完成后，您可以通过以下命令激活虚拟环境：
 
-bash
-复制
-编辑
+
 source venv/bin/activate
 🚀 快速开始
 克隆项目仓库
 
-bash
-复制
-编辑
+
 git clone https://github.com/your-username/soar-framework.git
 cd soar-framework
 执行一键安装脚本
 
-bash
-复制
-编辑
+
 bash <(curl -Ls https://raw.githubusercontent.com/your-username/soar-framework/main/install.sh)
 激活虚拟环境
 
-bash
-复制
-编辑
 source venv/bin/activate
 运行主程序
 
-bash
-复制
-编辑
+
 python main.py
 请根据您的项目结构，将 main.py 替换为实际的启动文件。
 
@@ -79,15 +68,6 @@ SOAR-Lite 支持自定义插件，您可以根据需求开发新的检测器和�
 🙋‍♂️ 贡献
 我们欢迎社区的贡献！如果您有任何建议、发现了问题或希望添加新功能，请提交 Issue 或发起 Pull Request。
 
-yaml
-复制
-编辑
-
----
-
-请根据您的实际情况，将上述内容中的 `your-username` 替换为您的 GitHub 用户名，并根据项目结构调整相关路径和文件名。如果您需要进一步的帮助，例如将项目部署到 GitHub 或设置持续集成（CI）工作流程，请随时告诉我！
-::contentReference[oaicite:0]{index=0}
- 
 
 
 
