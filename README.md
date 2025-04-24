@@ -15,7 +15,7 @@
 为了简化安装过程，我们提供了一键安装脚本。您只需在终端中执行以下命令，即可自动完成环境配置和依赖安装：
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/your-username/soar-framework/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/tcamoo/soar-framework/main/install.sh)
 请将上述命令中的 your-username 替换为您的 GitHub 用户名。
 
 该脚本将自动执行以下操作：
@@ -38,12 +38,12 @@ source venv/bin/activate
 克隆项目仓库
 
 
-git clone https://github.com/your-username/soar-framework.git
+git clone https://github.com/tcamoo/soar-framework.git
 cd soar-framework
 执行一键安装脚本
 
 
-bash <(curl -Ls https://raw.githubusercontent.com/your-username/soar-framework/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/tcamoo/soar-framework/main/install.sh)
 激活虚拟环境
 
 source venv/bin/activate
